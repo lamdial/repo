@@ -6,6 +6,10 @@ import java.util.List;
 
 import main.com.amundi.action.IListPartitioner;
 
+/**
+ * @author LamDIALLO
+ * @Projet : Test technique Amundi
+ */
 public class ListPartitioner<T> implements IListPartitioner<T> {
 	
 	public Collection<Collection<T>> partition(Collection<T> items, int size) {
