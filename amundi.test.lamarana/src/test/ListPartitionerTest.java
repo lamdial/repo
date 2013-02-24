@@ -16,6 +16,10 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+/**
+ * @author LamDIALLO
+ * @Projet : Test technique Amundi
+ */
 public class ListPartitionerTest {
 	
 	// Example 1: partition([1,2,3,4,5], 2) ˆ[ [1,2], [2,3], [5] ]
